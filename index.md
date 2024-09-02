@@ -12,9 +12,6 @@ We focus on bringing together various data which are publicly available or cohor
   width="100%"
 %}
 
-{% include section.html %}
-
-{% include section.html %}
 
 ## Highlights
 
