@@ -4,7 +4,7 @@
 # Genomic Intelligence Mining LABoratory
 
 The GIMLAB is a team of researchers at the [Chosun University](https://eng.chosun.ac.kr/) dedicated to answering important questions in biology and genomics with informatics and statistics. 
-We focus on bringing together publicly available [big data](https://en.wikipedia.org/wiki/Big_data), developing new computational methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
+We focus on bringing together publicly available data, cohort data collected for specific purpose, developing new statistical methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
 
 {%
   include figure.html
