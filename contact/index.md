@@ -9,7 +9,7 @@ background: images/backgrounds/anschutz.jpg
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Our lab is part of the [College of Natural Science and Public Health and Safety in Chosun University](https://eng.chosun.ac.kr/eng/1882/subview.do)'s [Department of Biomedical Science](https://biomed.chosun.ac.kr/biomed/index.do) and [the Research Center of Gwangju Alzheimer's and Related Dementia(GARD) cohort](https://dss.niagads.org/cohorts/gwangju-alzheimers-and-related-dementia-gard/).
-We are a team located on the 3rd floor of the [Genetic Engineering Building].(https://www3.chosun.ac.kr/sites/eng/files/Campus_map_English.pdf).
+We are a team located on the 3rd floor of the [Genetic Engineering Building](https://www3.chosun.ac.kr/sites/eng/files/Campus_map_English.pdf).
 
 {%
   include figure.html
