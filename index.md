@@ -14,75 +14,71 @@ We focus on bringing together publicly available data, cohort data collected for
 
 {% include section.html %}
 
+{% include section.html %}
+
 ## Highlights
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use data science to answer important questions in biology and medicine.
+In all of our research, we prioritize transparency, rigor, and reproducibility.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  text="See what we've published"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
-
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/backgrounds/laptop-paper.jpg"
   link="research"
-  title="Our Research"
+  title="Genomics + Statistics/AIs → insight"
   text=text
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We believe that anyone around the world should be able to use and extend our work.
+We push to make software, tools, datasets, etc. that are freely available and openly licensed.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
+  link="tools"
+  text="See our highlighted resources"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/backgrounds/code.jpg"
+  link="resources"
+  title="Open source, all the way"
   flip=true
-  style="bare"
   text=text
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of enthusiastic researchers that want to push the frontier of data science.
+We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
-
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team/group-photo-2.jpg"
   link="team"
-  title="Our Team"
+  title="The next generation of data scientists"
   text=text
 %}
