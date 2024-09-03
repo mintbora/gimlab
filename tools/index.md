@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+All of our software, tools, datasets, etc. are 100% open-source, and free for anyone around the world to use and modify. We strive to make resources that are high quality in every aspect: cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
+
 
 {% include tags.html tags="publication, resource, website" %}
 
