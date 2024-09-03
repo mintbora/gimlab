@@ -132,8 +132,8 @@ header:not([data-big]) {
 }
 
 header[data-big] {
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   flex-direction: column;
   padding: $big-padding 20px;
 
