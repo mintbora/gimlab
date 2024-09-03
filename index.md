@@ -13,7 +13,7 @@ We focus on bringing together various data which are publicly available or cohor
 %}
 
 
----
+### Highlights
 
 {% capture text %}
 We use data science to answer important questions in biology and medicine.
