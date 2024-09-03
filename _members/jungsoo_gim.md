@@ -1,6 +1,6 @@
 ---
 name: Jungsoo Gim
-image: images/members/jungsoo_gim.png
+image: images/members/jungsoo_gim.jpg
 role: pi
 affiliation: Chosun University
 aliases:
